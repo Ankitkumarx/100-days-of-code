@@ -1,0 +1,8 @@
+/*Overview. 
+Function call stack in C is a 
+dynamic data structure where elements are stored 
+at contiguous memory locations. 
+Function call stack is maintained for 
+every function call where it 
+contains its own local variables 
+and parameters of the callee function.*/
