@@ -3,7 +3,7 @@
 using namespace std;
 
 int reverseno(int n) {
-    int rev = 0;
+    int rev = 0; 
     while (n != 0) {
         int r = n % 10;
         rev = rev * 10 + r;
@@ -22,4 +22,4 @@ int main() {
     cout << "Reversed Number: " << ri<< endl;
 
     return 0;
-}
+} 
