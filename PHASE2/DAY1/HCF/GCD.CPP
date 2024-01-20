@@ -21,6 +21,6 @@ int main(){
     cin >> a >> b;
     cout << a << " "<< b;
     int ans =gcd(a,b);
-    cout <<  " the gcd no is :" << a <<" "<< b <<" "<< "answer is " <<ans << endl;
+    cout <<  " the gcd no is : " << a <<" "<< b <<" "<< "answer is " <<ans << endl;
     return 0;
 }
