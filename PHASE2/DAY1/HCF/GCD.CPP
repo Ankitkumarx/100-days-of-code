@@ -7,7 +7,7 @@ int gcd(int a, int b){
     return a;
 
     while(a != b){
-        if(a>b){
+        if(a>b){ 
             a =a-b;
         }
         else{
