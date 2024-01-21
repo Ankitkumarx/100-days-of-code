@@ -17,7 +17,7 @@ int calculateGCD(int a, int b) {
     }
     return a;
 }
-
+ 
 int main() {
     int num1, num2;
 
